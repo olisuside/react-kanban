@@ -1,6 +1,6 @@
 # Kanban App using ReactJs
 
-A kanban app using ReactJs and framer motion
+A kanban app with drag and drop feature using ReactJs and framer motion
 
 # Screenshot
 
